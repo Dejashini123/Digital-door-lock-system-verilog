@@ -206,7 +206,7 @@ endmodule
 “After three consecutive wrong password attempts, the system enters alarm mode.
 In alarm mode, the door does not unlock even if the correct password is entered.
 This is a safety feature to prevent intruders from bypassing the system by simply retrying inputs.
-Therefore, the unlock LED remains 0, and only the alarm LED stays 1.”
+Therefore, the unlock LED remains 0, and only the alarm LED stays 1”.
 
 
 
